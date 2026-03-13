@@ -1,0 +1,17 @@
+name: "Eduardo Ramirez"
+output_dir: "."
+navbar:
+  title: "Eduardo's Portfolio"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-pen 
+      href: giswork.html
+    - text: "Resume"
+      icon: fa-file
+      href: resume.html
+output:
+  html_document:
+    theme: journal

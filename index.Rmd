@@ -1,0 +1,21 @@
+
+
+# **<u>About Me</u>**
+
+
+<center>
+# Hello, I am [Eduardo Ramirez](https://www.linkedin.com/in/eduardo-ramirez-0b87a0263/).
+</center>
+
+
+Hello, my name is Eduardo Ramirez. I currently attend California State University, Long Beach with a focus on Global Studies. My work explores how environmental conditions, spatial patterns, and human systems interact across regions and communities.
+
+My work also demonstrates how spatial analysis and GIS can be leveraged to better support communities and municipalities by identifying patterns, revealing disparities, and informing more effective regional decision-making. 
+
+Alongside my academic work, I support school sites in the Los Angeles region analyze attendance patterns and identify barriers that affect student attendance. I actively engage with school communities, working directly with students and families to address challenges and support improved attendance outcomes. Through both analysis and community engagement, I help schools better understand the barriers families face and support strategies to meet regional attendance growth goals.
+
+### **<u>Contact</u>**
+  - Phone: (213)447-1549
+  - Email: eduardoramirez90280@gmail.com
+  
+![](img/IMG_5026.png)
