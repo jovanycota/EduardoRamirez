@@ -7,8 +7,7 @@
 # Hello, I am [Eduardo Ramirez](https://www.linkedin.com/in/eduardo-ramirez-0b87a0263/).
 </center>
 
-
-Hello, my name is Eduardo Ramirez. I currently attend California State University, Long Beach with a focus on Global Studies. My work explores how environmental conditions, spatial patterns, and human systems interact across regions and communities.
+I currently attend California State University, Long Beach with a focus on Global Studies. My work explores how environmental conditions, spatial patterns, and human systems interact across regions and communities.
 
 My work also demonstrates how spatial analysis and GIS can be leveraged to better support communities and municipalities by identifying patterns, revealing disparities, and informing more effective regional decision-making. 
 
