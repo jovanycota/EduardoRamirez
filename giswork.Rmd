@@ -8,7 +8,7 @@
 
 ![](img/IMG_5027.png)
 
-This map illustrates areas of potential gentrification across the Los Angeles metropolitan region, highlighting neighborhoods where social vulnerability and housing change may indicate increased redevelopment or displacement pressures. The analysis combines multiple datasets, including social vulnerability indicators, housing characteristics, and demographic data from the American Community Survey (ACS).
+This map illustrates areas of potential gentrification across the Los Angeles metropolitan region, highlighting neighborhoods where social vulnerability and housing change may indicate increased redevelopment or displacement pressures. The analysis combines multiple data sets, including social vulnerability indicators, housing characteristics, and demographic data from the American Community Survey (ACS).
 
 The map shows clusters of potential gentrification in several parts of the region, particularly in central and east Los Angeles, parts of the San Gabriel Valley, and some areas in South Los Angeles and near Long Beach. These patterns suggest that redevelopment and housing market pressures are spreading outward from historically urbanized areas.
 
