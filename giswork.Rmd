@@ -2,17 +2,23 @@
 # **<u>GIS Projects</u>**
 
 
-## [Asthma Cases in the Gateway Cities](https://storymaps.arcgis.com/stories/e731fa8365ba41df8beb111e466a89c2)
+## [Asthma Cases in the Gateway Cities](https://arcg.is/0q1yrj1)
 
-## [Urban Change and Displacement Risk in Los Angeles County](https://csulb.maps.arcgis.com/home/item.html?id=7c98ee63b75f4e469d757eb2feaa6f3d)
+## **Urban Change and Displacement Risk in Los Angeles County**
 
 ![](img/IMG_5027.png)
 
-## [Indonesia Population](https://csulb.maps.arcgis.com/home/item.html?id=5654034b6ef84dbfa232c4a01a60f504)
+This map illustrates areas of potential gentrification across the Los Angeles metropolitan region, highlighting neighborhoods where social vulnerability and housing change may indicate increased redevelopment or displacement pressures. The analysis combines multiple datasets, including social vulnerability indicators, housing characteristics, and demographic data from the American Community Survey (ACS).
+
+The map shows clusters of potential gentrification in several parts of the region, particularly in central and east Los Angeles, parts of the San Gabriel Valley, and some areas in South Los Angeles and near Long Beach. These patterns suggest that redevelopment and housing market pressures are spreading outward from historically urbanized areas.
+
+## **Indonesia Population**
 
 ![](img/IMG_0528.png)
 
-## [Pharmacy and Drugstore Clusters and Population Comparison](https://csulb.maps.arcgis.com/home/item.html?id=8779e3350ca449a2a862ea65dfba1bf1)
+This map illustrates the spatial distribution of population across Indonesia by combining provincial population density with city population totals. The map shows that population is highly concentrated on the island of Java, where major urban centers such as Jakarta, Bandung, and Surabaya have some of the largest populations in the country.
+
+## **Pharmacy and Drugstore Clusters and Population Comparison**
 
 ![](img/IMG_0529.png)
 
